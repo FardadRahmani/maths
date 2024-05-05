@@ -9,6 +9,7 @@ int main()
 	cin >> n1;
 	
 	
+	
 	cout << n1 << " ^ 3 = " << pow(n1,3) << endl;
 	
 	return 0;
